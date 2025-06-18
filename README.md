@@ -1,4 +1,4 @@
-#<h1> 🧥 Invisibility Cloak using OpenCV</h1>
+<h1> 🧥 Invisibility Cloak using OpenCV</h1>
 
 <p>Simulates the effect of invisibility by detecting a colored cloak (e.g., red) and replacing it with the background in real-time video using Python and OpenCV.</p>
 
